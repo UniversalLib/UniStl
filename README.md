@@ -2,6 +2,11 @@
 
 Universal Standard Library
 
+### Disclaimer
+This project is not intended to be as fast as possible. It is only intended to have consistent results.
+
+In the future there may be a compile time option to use fast (but possibly not consistent) implementations.
+
 ## Features
 None (for now)
 
