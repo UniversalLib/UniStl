@@ -32,3 +32,6 @@ add_executable(target file.c)
 add_subdirectory(libs/unistl/C17/)
 target_link_libraries(target unistl::c17)
 ```
+
+# License
+UniStl is licensed under the BSD-3-Clause-Clear license
